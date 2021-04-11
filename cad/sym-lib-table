@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name bab_top-rescue)(type Legacy)(uri ${KIPRJMOD}/bab_top-rescue.lib)(options "")(descr ""))
+  (lib (name bab)(type Legacy)(uri ${KIPRJMOD}/lib/bab.lib)(options "")(descr ""))
+)
